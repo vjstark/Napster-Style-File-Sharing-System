@@ -1,0 +1,28 @@
+Parallelism 
+Break for loop into threads
+eg: for loop of 100 can be divided into 4 threads (25 counter each) 
+
+for Fibonacii series:
+Create DAG for decomposing 
+
+
+SIMD -- GPU with multiple core working on single data
+MIMD -- Clusters, HPC,Laptops, modern PCs
+
+Parallelism 
+1. Bit level 
+2. Task level
+
+Threading
+1 USer level threads - disad: Process having user level threads will get a specified time to execute. 
+	if 2 process are there with 1 process is having one thread and 1 process having 5 threads,
+	each of the process will get same time to execute. this is because OS doesnt know how many threads are 
+	there in a process.
+2 Kernel Level Threads - disad: Expensive to implement
+
+
+Lockfree :
+-- Bakery Algo for lock free
+-- Wait freedom 
+
+

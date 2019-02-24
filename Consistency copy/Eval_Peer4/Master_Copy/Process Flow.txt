@@ -1,0 +1,144 @@
+﻿Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+
+Here is how a typical RMI invocation usually works：
+
+The server registers service from RMI and binds its address.
+The client registers service from RMI and obtains target address.
+The client invokes methods of local stub object in the same way of invoking other local objects.
+Local stub object zips invoking information and send it to the server via network.
+The Skeleton object of server receives the network request and unzips the information.
+Server runs invocation on the target object based on the information and return the zipped results back to client via network.
+

@@ -1,0 +1,18 @@
+3 topics for project
+
+1. Run time Systems (Low level OS) - XTASK -> Optimizing OS
+2. Search in Distributed Storage (Medium level to High Level OS) - XSEARCH (Search data, organize it, use it)
+3. Variable Precision DeepNeural Networks 
+
+1. Run Time Systems
+	- Parallel execution of smaller process using multi threading
+	- Moore's law
+	- Computation time < 1 ms -- GOOD !
+	- Strong Scaling (Fixed prob size) vs Weak Scaling (Multiple probs of variant size)
+	- XTASK vs Swift/T
+	- Mem Alloc of Linux kernel vs Bitmap MemAlloc
+
+2. Search in Distributed info retrieval in large scale Storage
+	- catalogs db
+3. Deep Neural Net
+	- 

@@ -1,0 +1,25 @@
+#Peer Properties: Peer_ID,Peer_Port,MasterDir1,CacheDir2,SuperPeer
+*Peer
+P01,4001,/Users/vjstark/Documents/Consistency/Eval_Peer1/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer1/Cache_Copy/,SP01
+*Peer
+P02,4002,/Users/vjstark/Documents/Consistency/Eval_Peer2/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer2/Cache_Copy/,SP01
+*Peer
+P03,4003,/Users/vjstark/Documents/Consistency/Eval_Peer3/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer3/Cache_Copy/,SP01
+*Peer
+P04,4004,/Users/vjstark/Documents/Consistency/Eval_Peer4/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer4/Cache_Copy/,SP02
+*Peer
+P05,4005,/Users/vjstark/Documents/Consistency/Eval_Peer5/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer5/Cache_Copy/,SP02
+*Peer
+P06,4006,/Users/vjstark/Documents/Consistency/Eval_Peer6/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer6/Cache_Copy/,SP02
+*Peer
+P07,4007,/Users/vjstark/Documents/Consistency/Eval_Peer7/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer7/Cache_Copy/,SP03
+*Peer
+P08,4008,/Users/vjstark/Documents/Consistency/Eval_Peer8/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer8/Cache_Copy/,SP03
+*Peer
+P09,4009,/Users/vjstark/Documents/Consistency/Eval_Peer9/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer9/Cache_Copy/,SP03
+*Peer
+P10,4010,/Users/vjstark/Documents/Consistency/Eval_Peer10/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer10/Cache_Copy/,SP04
+*Peer
+P11,4011,/Users/vjstark/Documents/Consistency/Eval_Peer11/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer11/Cache_Copy/,SP04
+*Peer
+P12,4012,/Users/vjstark/Documents/Consistency/Eval_Peer12/Master_Copy/,/Users/vjstark/Documents/Consistency/Eval_Peer12/Cache_Copy/,SP04

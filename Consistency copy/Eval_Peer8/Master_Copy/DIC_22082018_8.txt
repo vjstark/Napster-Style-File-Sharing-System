@@ -1,0 +1,13 @@
+Intro to Distributed Systems
+
+1. Infinity bands to enhance TCP transmission
+2. Switches has cross connections to all ports (bidirectional connection) 
+	8 ports -64 mbps
+	Normally 40-50 ports switches
+3. Factories - create hierarchy of switches to connect to child switches in different rack 
+	basically used in Data Center(FB,Google, Argonne National Lab)
+4. 3D/5D tores Network --> DragonFly (Used in Scientific Computing)
+5. Difference Btwn : Factories vs Tores/DragonFly
+6. Clusters/Cloud used for Data center
+7. Supercomputer 
+
